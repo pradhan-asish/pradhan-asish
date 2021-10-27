@@ -1,1 +1,1 @@
-- 👀 I am a Data Analyst. Lets play with data !!
+- 👀 Being a data analyst, likes to play with data!!
