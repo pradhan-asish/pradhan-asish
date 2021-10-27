@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Asish Kumar Pradhan.
 - 👀 I am a Data Analyst. Lets play with data !!
